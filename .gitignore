@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.zip
+audit_extract/
+repair_work/
+github_work/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
